@@ -1,0 +1,11 @@
+.form-list label.required em {
+    margin: 0 3px;
+    float: right;
+}
+
+.form-list label {float:none; padding: 2px; line-height: normal;}
+
+input[type="checkbox"] { height:inherit; margin:5px 0; }
+.checkboxem {text-transform:lowercase; font-size:1em !important; float:none; clear:both;}
+input.checkboxem {width:auto; margin-right:5px;}
+label.checkboxem {max-width: 91%!important;}

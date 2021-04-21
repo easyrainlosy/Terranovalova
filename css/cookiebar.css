@@ -1,0 +1,6 @@
+#townside-cookiebar-outer {background-color: #efefef;}
+.townside-cookiebar-inner {background: inherit; padding: 10px 20px; min-height: 25px;}
+.townside-cookiebar-btn-con {width: 140px; float: right; text-align: right; margin-left: 20px;}
+.townside-cookiebar-btn-accept {padding: 5px 10px; color: #fff; background: #0B4884; border: 0; margin-right: 10px; cursor: pointer;}
+.townside-cookiebar-learn {cursor: pointer;}
+.townside-cookiebar-text {color: #333; padding: 3px 0;}
